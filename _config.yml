@@ -6,3 +6,6 @@ baseurl: "/Personal-Portfolio"
 show_downloads:false
 github:
   is_project_page: false
+
+exclude:
+  - README.md
