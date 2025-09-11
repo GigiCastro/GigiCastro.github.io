@@ -1,0 +1,8 @@
+theme: jekyll-theme-time-machine
+title: Gigi Castro
+description: Computer Science Graduate Student | Data Science | Consumer Behavior
+baseurl: "/Personal-Portfolio"
+
+show_downloads:false
+github:
+  is_project_page: false
