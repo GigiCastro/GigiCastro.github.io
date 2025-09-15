@@ -1,11 +1,13 @@
 title: Gigi Castro
 show_downloads: false
-theme: jekyll-remote-personal
+remote_theme: le4ker/personal-jekyll-theme
 
 
 description: Computer Science Graduate Student | Data Science | Consumer Behavior
 url: "https://gigicastro.github.io/"
 baseurl: ""
 
-
+plugins:
+  - jekyll-paginate
+  - jekyll-spaceship
 
