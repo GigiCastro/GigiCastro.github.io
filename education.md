@@ -1,5 +1,4 @@
-layout: page
+layout: default
 title: "Education"
-permalink: /education
 
-# HELLLO
+# HELLLO I HAVE EDUCATION
